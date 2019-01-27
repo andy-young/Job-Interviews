@@ -13,21 +13,41 @@
 
 ## Validate Job Description
 
-1. Read the job description in full and write down list of all the reasons I'm qualified.
+1. Reasons I'm qualified:
 
-    -
-    -
-    -
+    - solid at writing JavaScript
+    - love solving technical problems
+        - love communicating the 'how' to solve process
+    - love learning new things
 
-2. How do they define a _Backend Developer_?
+1. How do they define a _Backend Developer_?
 
-3. "Is there anything on this job description that you would like to have added?"
+## Questions to ask Nick Booth
 
-4. How would you describe the company culture?
+1. "Do you feel like the job description is accurate?"
 
-5. Can you tell me about the tools the engineer team uses:
+    - "Is there anything left out?"
 
-    - IDEs
-    - version control: git, bitbucket, etc
-    - 
+1. How would you describe the team culture?
 
+    - How is the engineering team/department perceived within the company itself.
+
+1. What's the project we'd be working on?
+
+    - And how soon can I reasonably start contributing to your next big project?
+
+        - “What do you want this individual to come in and accomplish over the next 3 months? 6 months? 1 year?”
+
+1. “What experience and skills are a must have immediately?”
+
+    - And what skills would you be willing to let me build up to, if I don't quite have.
+
+1. "Do you feel the team is prevented from 'burn-out'?"
+
+1. "What do you like about working at Entercom?"
+
+    - "What do you _not_ like about Entercom?"
+
+1. “Are there any concerns about my background that I can address for you?”
+
+1. "When can I expect to hear back from you?"
