@@ -11,6 +11,18 @@
 
 ## Who is Entercom?
 
+> The 2nd largest broadcasting company in US, based in Pennsylvania.
+
+> Becoming a Juggernaut, many mergers & acquisitions, largest with CBS
+
+> Operates many brands, 1Thing, GetMyPerks, SmartReach Digital suite
+
+> Through CBS acquired Radio.com, Eventful and play.it
+
+> Left TuneIn to exclusively stream its own stations.
+
+> A Entercom properties to be branded: "A Radio.com Station".
+
 ## Validate Job Description
 
 1. Reasons I'm qualified:
@@ -19,6 +31,7 @@
     - love solving technical problems
         - love communicating the 'how' to solve process
     - love learning new things
+    - enjoy working with Nodejs and learning more about it.
 
 1. How do they define a _Backend Developer_?
 
@@ -28,7 +41,7 @@
 
     - "Is there anything left out?"
 
-1. How would you describe the team culture?
+1. How would you describe the team's personality?
 
     - How is the engineering team/department perceived within the company itself.
 
@@ -41,6 +54,14 @@
 1. “What experience and skills are a must have immediately?”
 
     - And what skills would you be willing to let me build up to, if I don't quite have.
+
+1. What tools?
+
+    - Unix
+    - Windows
+    - OSX
+    - editor IDE?
+    - git/github/bit-bucket?
 
 1. "Do you feel the team is prevented from 'burn-out'?"
 
